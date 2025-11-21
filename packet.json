@@ -1,0 +1,11 @@
+{
+  "name": "se360-lab",
+  "version": "1.0.0",
+  "description": "Simple Node.js project for Azure DevOps CI lab",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build step running\""
+  },
+  "author": "TaTanh_23521462",
+  "license": "MIT"
+}
